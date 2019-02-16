@@ -1,4 +1,1 @@
-v1.0
-mod2 commit
-master
-master 2
+v1.1.0
